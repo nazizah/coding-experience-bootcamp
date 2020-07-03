@@ -1,0 +1,6 @@
+/* Footer */
+.footer{ 
+   background-color:#ceccf3;
+  height:270px;
+}
+
